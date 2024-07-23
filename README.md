@@ -18,5 +18,5 @@ Summary of LLM Resources.
   2024.07 - Aniket Vashishtha - Microsoft Research, India  
 
 ## 3. Inference
-- [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
+- [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)  
   2024.04 - Zixuan Zhou - Tsinghua University, China    
