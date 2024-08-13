@@ -27,7 +27,7 @@ Summary of LLM Resources.
   2024.07 - Aniket Vashishtha - Microsoft Research, India  
 
 ## 4. Finetune
-- [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608)
+- [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608)  
   2024.07 - Zeyu Han - Northeastern University, USA
 
 ## 5. Inference
@@ -35,3 +35,4 @@ Summary of LLM Resources.
   2024.04 - Zixuan Zhou - Tsinghua University, China    
 
 ## 6. Miscellaneous
+- [LiL'Log](https://lilianweng.github.io/archives/)  
