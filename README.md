@@ -17,14 +17,13 @@ Summary of LLM Resources.
   2023.03 - Wayne Xin Zhao - Renmin Runiversity, China
 
 ## 2. Model
-### DeepSeek Series
-- [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)    
-  2024.05 - Aixin Liu - DeepSeek-AI, China  
-- [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)  
-  2024.01 - Xiao Bi - DeepSeek-AI, China
-### LLaMA Series
-- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)  
-  2024.07 - Meta Inc.
+#### DeepSeek Series - DeepSeek-AI, China
+- [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434) - 2024.05  
+- [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954) - 2024.01  
+#### LLaMA Series - Meta Inc, USA
+- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) - 2024.07  
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) - 2023.07  
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) - 2023.02  
 
 ## 3. Pre-training
 - [Teaching Transformers Causal Reasoning through Axiomatic Training](https://arxiv.org/abs/2407.07612)  
