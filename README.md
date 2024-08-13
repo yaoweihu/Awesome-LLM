@@ -23,7 +23,7 @@ Summary of LLM Resources.
 - [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)  
   2024.01 - Xiao Bi - DeepSeek-AI, China
 ### LLaMA Series
-- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
+- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)  
   2024.07 - Meta Inc.
 
 ## 3. Pre-training
