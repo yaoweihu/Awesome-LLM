@@ -14,7 +14,7 @@ Summary of LLM Resources.
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)  
   2024.02 - Shervin Minaee - Snap Inc., USA  
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)  
-  2023.03 - Wayne Xin Zhao - Renmin Runiversity, China
+  2023.11 - Wayne Xin Zhao - Renmin Runiversity, China
 
 ## 2. Model
 #### DeepSeek Series - DeepSeek-AI, China
@@ -35,7 +35,7 @@ Summary of LLM Resources.
 
 ## 5. Inference
 - [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
-  2024.04 - Zixuan Zhou - Tsinghua University, China  
+  2024.07 - Zixuan Zhou - Tsinghua University, China  
 
 ## 6. Miscellaneous
 - [LiL'Log](https://lilianweng.github.io/archives/)  
