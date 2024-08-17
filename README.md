@@ -35,7 +35,9 @@ Summary of LLM Resources.
 
 ## 5. Inference
 - [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
-  2024.07 - Zixuan Zhou - Tsinghua University, China  
+  2024.07 - Zixuan Zhou - Tsinghua University, China
+- [https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw)
+- 2017.03 - Daniel Crankshaw - UC Berkeley, USA  
 
 ## 6. Miscellaneous
 - [LiL'Log](https://lilianweng.github.io/archives/)  
