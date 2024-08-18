@@ -29,7 +29,7 @@ Summary of LLM Resources.
   2023.12 - Albert Gu, Tri Dao - CMU, Princeton University  
 
 ## 3. Pre-training
-- [Teaching Transformers Causal Reasoning through Axiomatic Training](https://arxiv.org/abs/2407.07612)  
+- [Teaching Transformers Causal Reasoning through Axiomatic Training](https://arxiv.org/abs/2407.07612)✅    
   2024.07 - Aniket Vashishtha - Microsoft Research, India  
 
 ## 4. Finetune
