@@ -23,7 +23,10 @@ Summary of LLM Resources.
 #### LLaMA Series - Meta Inc, USA
 - [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) - 2024.07  
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) - 2023.07  
-- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) - 2023.02  
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) - 2023.02
+#### Mamba Series
+- [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)  
+  2023.12 - Albert Gu, Tri Dao - CMU, Princeton University  
 
 ## 3. Pre-training
 - [Teaching Transformers Causal Reasoning through Axiomatic Training](https://arxiv.org/abs/2407.07612)  
