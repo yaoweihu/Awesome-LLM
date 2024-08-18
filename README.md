@@ -28,6 +28,10 @@ Summary of LLM Resources.
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)  
   2023.12 - Albert Gu, Tri Dao - CMU, Princeton University  
 
+#### FlashAttention Series
+- [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)  
+  2022.05 - Tri Dao - Stanford University  
+
 ## 3. Pre-training
 - [Teaching Transformers Causal Reasoning through Axiomatic Training](https://arxiv.org/abs/2407.07612)✅    
   2024.07 - Aniket Vashishtha - Microsoft Research, India  
