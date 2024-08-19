@@ -27,6 +27,8 @@ Summary of LLM Resources.
 #### Mamba Series
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)  
   2023.12 - Albert Gu, Tri Dao - CMU, Princeton University  
+- [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985)
+  2021.10 - Albert Gu - Stanford University    
 
 #### FlashAttention Series
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)  
