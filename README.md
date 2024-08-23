@@ -49,4 +49,5 @@ Summary of LLM Resources.
 - 2017.03 - Daniel Crankshaw - UC Berkeley, USA  
 
 ## 6. Miscellaneous
-- [LiL'Log](https://lilianweng.github.io/archives/)  
+- [LiL'Log](https://lilianweng.github.io/archives/)
+- [AI-System](https://ucbrise.github.io/cs294-ai-sys-fa19/)
