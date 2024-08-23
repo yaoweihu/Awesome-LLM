@@ -50,4 +50,4 @@ Summary of LLM Resources.
 
 ## 6. Miscellaneous
 - [LiL'Log](https://lilianweng.github.io/archives/)
-- [AI-System](https://ucbrise.github.io/cs294-ai-sys-fa19/)
+- [AI-System](https://learning-systems.notion.site/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb)
