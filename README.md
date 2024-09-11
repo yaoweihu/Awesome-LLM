@@ -44,9 +44,11 @@ Summary of LLM Resources.
 
 ## 5. Inference
 - [A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)  
-  2024.07 - Zixuan Zhou - Tsinghua University, China
-- [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw)
-- 2017.03 - Daniel Crankshaw - UC Berkeley, USA  
+  2024.07 - Zixuan Zhou - Tsinghua University, China  
+- [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)  
+  2023.09 - Woosuk Kwon - UC Berkeley  
+- [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw)  
+  2017.03 - Daniel Crankshaw - UC Berkeley, USA  
 
 ## 6. Miscellaneous
 - [LiL'Log](https://lilianweng.github.io/archives/)
