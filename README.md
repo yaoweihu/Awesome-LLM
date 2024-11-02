@@ -8,9 +8,12 @@ Summary of LLM Resources.
 - [3. Pre-training](#3-pre-training)
 - [3. Finetune](#4-finetune)
 - [5. Inference](#5-inference)
-- [6. Miscellaneous](#6-miscellaneous)
+- [6. Small LLM](#small-llm)
+- [7. Miscellaneous](#6-miscellaneous)
   
 ## 1. Survey
+- [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)   
+  2024.09 - Zhenyan Lu - Beijing University of Posts and Telecommunications  
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)  
   2024.02 - Shervin Minaee - Snap Inc., USA  
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)  
@@ -50,6 +53,10 @@ Summary of LLM Resources.
 - [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw)  
   2017.03 - Daniel Crankshaw - UC Berkeley, USA  
 
-## 6. Miscellaneous
+## 6. Small LLM
+- [Small Models are Valuable Plug-ins for Large Language Models](https://arxiv.org/abs/2305.08848)  
+  2024.05 - Canwen Xu - University of California, San Diego  
+
+## 7. Miscellaneous
 - [LiL'Log](https://lilianweng.github.io/archives/)
 - [AI-System](https://learning-systems.notion.site/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb)
