@@ -60,3 +60,4 @@ Summary of LLM Resources.
 ## 7. Miscellaneous
 - [LiL'Log](https://lilianweng.github.io/archives/)
 - [AI-System](https://learning-systems.notion.site/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb)
+- [Deep Generative Models](https://mit-6s978.github.io/schedule.html)  
