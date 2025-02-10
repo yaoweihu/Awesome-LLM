@@ -52,7 +52,9 @@ Summary of LLM Resources.
 - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)  
   2023.09 - Woosuk Kwon - UC Berkeley  
 - [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw)  
-  2017.03 - Daniel Crankshaw - UC Berkeley, USA  
+  2017.03 - Daniel Crankshaw - UC Berkeley, USA
+- [XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models](https://arxiv.org/abs/2411.15100)  
+  2024.11 - Yixin Dong, Tianqi Chen - CMU  
 
 ## 6. Small LLM
 - [Small Models are Valuable Plug-ins for Large Language Models](https://arxiv.org/abs/2305.08848)  
